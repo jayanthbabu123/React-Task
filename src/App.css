@@ -1,0 +1,42 @@
+.filters {
+  display: flex;
+  background-color: #d3d3d33b;
+  margin: 40px 20px;
+  padding: 15px;
+}
+
+.drop-section {
+  float: left;
+  padding: 30px;
+}
+.panel {
+  text-align: center;
+  padding: 15px;
+  box-sizing: border-box;
+  border:1px dotted;
+}
+
+.main-box {
+  padding: 25px;
+}
+
+.main-container {
+  padding: 50px;
+}
+
+.empty-box {
+  padding: 100px 20px;
+  border: 1px dotted;
+  text-align: center;
+}
+
+.content-box {
+  margin-top: 34px;
+}
+
+.image-sec{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 16px;
+}
